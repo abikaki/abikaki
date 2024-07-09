@@ -2,8 +2,8 @@
 [![Total Contributions](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dabikaki%26type%3Djson)]()
 ![](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Dabikaki%26type%3Djson)
 [![](https://visitcount.itsvg.in/api?id=abikaki&icon=3&color=11)](https://visitcount.itsvg.in)
-<!--[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/athina11) -->
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/athina11.svg?style=social&label=%20%40athina11)](https://twitter.com/athina11)
+<!--[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/athina11) -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abikaki&theme=apprentice) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abikaki&theme=apprentice)
